@@ -10,3 +10,6 @@ Prototype #0001 - Designed for Sanwa joysticks with 20mm + 6mm (26mm total) stan
 ![Prototype-0001t](./prototype-0002.png)
 
 Prototype #0002 - Designed for Sanwa joysticks with 20mm + 6mm (26mm total) standoffs on the joystick and sized for 60mm screw style dome buttons 
+
+3d print the octagonal JLF gate for better acuracy when playing. https://cults3d.com/en/3d-model/tool/sanwa-joystick-gate-remix
+
