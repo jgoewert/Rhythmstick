@@ -2,4 +2,4 @@
 
 Full build guide and list of materials will be posted later.
 
-![Controller image[fftasc-photo.png])
+![Controller image](fftasc-photo.png)
